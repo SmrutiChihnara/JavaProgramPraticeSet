@@ -1,0 +1,2 @@
+# JavaProgramPraticeSet
+Daily practice program 
